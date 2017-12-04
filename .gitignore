@@ -1,0 +1,54 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.do
+*.act
+*.app
+*.out
+*.elf
+
+# Logs
+*.log
+*.journal
+
+# Custom
+known_hosts
+exclusion.cxx.git
+
+cfg
+lib
+doc.html
+
+# Temporary
+src/usr.reset.php
+src/www.usr.init.php
+src/.cfg/db_src.php
+src/.cfg/-www.db.php
+src/.lib/*
